@@ -114,5 +114,5 @@ Autocorrelation
 
 <img width="692" height="536" alt="image" src="https://github.com/user-attachments/assets/78e139d7-24b5-4df2-a001-7816dee13e25" />
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
